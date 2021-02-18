@@ -1,0 +1,5 @@
+.DS_Store
+JuceLibraryCode/
+*.jucer
+Builds/
+images/
